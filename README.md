@@ -13,7 +13,26 @@ en pokemon
 
 ![uitleg] ( Drakieminecraft.jpg)
 dat ken je nu wel zien
-maarer is veel over 
+maar er is veel over 
 ARDUINO
 
 ![plaatje over een arduino] (mijn ding.jpg)
+de jonge onderzoeker is super vet
+je leerd veel met electriciteit
+je leert progemeren en nog veel meer
+tot op de jonge onderzoekers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
