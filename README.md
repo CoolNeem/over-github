@@ -18,7 +18,7 @@ ARDUINO
 
 ![plaatje over een arduino] (mijn ding.jpg)
 de jonge onderzoeker is super vet
-je leerd veel met electriciteit
+je leert veel met electriciteit
 je leert progemeren en nog veel meer
 tot op de jonge onderzoekers
 
