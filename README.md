@@ -16,4 +16,4 @@ dat ken je nu wel zien
 maarer is veel over 
 ARDUINO
 
-![plaatje over een arduino]
+![plaatje over een arduino] (mijn ding.jpg)
