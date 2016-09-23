@@ -10,3 +10,5 @@ en pokemon
 ![cool player] (minecraft-10-700x393.jpg)
 
 ![leuk plaatje] (minecraft-palace-hillside.jpg)
+
+![uitleg] ( Drakieminecraft.jpg)
