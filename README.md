@@ -17,6 +17,7 @@ maar er is veel over
 ARDUINO
 
 ![plaatje over een arduino] (mijn ding.jpg)
+![zien hoe een bead boord werkt] (kool bord.jpg)
 de jonge onderzoeker is super vet
 je leert veel met electriciteit
 je leert progemeren en nog veel meer
