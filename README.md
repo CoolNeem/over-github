@@ -6,3 +6,5 @@ MINECRAFT
 en pokemon
 
 ![dit is een vet plaatje] (draken.jpg)
+
+![cool player] (minecraft-10-700x393.jpg)
