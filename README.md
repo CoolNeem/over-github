@@ -12,3 +12,6 @@ en pokemon
 ![leuk plaatje] (minecraft-palace-hillside.jpg)
 
 ![uitleg] ( Drakieminecraft.jpg)
+dat ken je nu wel zien
+maarer is veel over 
+ARDUINO
