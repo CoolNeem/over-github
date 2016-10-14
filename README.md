@@ -16,7 +16,7 @@ en pokemon
 
 ![uitleg] ( Drakieminecraft.jpg)
 ![ingewikeld plaatje](pokemon-gold-title.jpg.png)
-dat ken je nu wel zien
+dat kun je nu wel zien
 maar er is veel over 
 ARDUINO
 
