@@ -19,7 +19,7 @@ en pokemon
 ![uitleg] ( Drakieminecraft.jpg)
 ![ingewikeld plaatje](pokemon-gold-title.jpg.png)
 
-![]()
+![cool](maxresdefault.jpg)
 
 dat kun je nu wel zien
 maar er is veel over 
